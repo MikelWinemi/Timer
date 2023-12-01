@@ -1,6 +1,6 @@
 # Timer
 countdown timer app
-his repository contains the source code for a straightforward and efficient countdown timer app built with **Kotlin** and **Jetpack Compose**.
+This repository contains the source code for a straightforward and efficient countdown timer app built with **Kotlin** and **Jetpack Compose**.
 
 ## About the App :memo:
 
